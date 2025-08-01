@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Kiran Kumar🤓🧑‍💻  
 
 ## 🚀 About Me
-Senior Java Full Stack Developer | DevOps Engineer | Building scalable microservices and cloud-native applications
+Senior Java Developer | Full Stack | DevOps | CI/CD | Cloud Infrastructure | Always Learning | AI Enthusiast
+
+🌍 Mangalore🌊, Karnataka, India | 📧 [kumarkiru09@gmail.com](mailto:kumarkiru09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
 
 ## 💻 Tech Stack
 
