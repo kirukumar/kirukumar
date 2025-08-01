@@ -1,9 +1,19 @@
 # Hi there! 👋 I'm Kiran Kumar🤓🧑‍💻  
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&width=800&lines=Senior+Java+Developer;Full+Stack+Engineer;DevOps+%26+CI%2FCD+Expert;FinTech+Specialist;Microservices+Architect;Always+Learning+New+Tech!)](https://git.io/typing-svg)
+
+</div>
+
 ## 🚀 About Me
 Senior Java Developer | Full Stack | DevOps | CI/CD | Cloud Infrastructure | Always Learning | AI Enthusiast
 
-🌍 Mangalore🌊, Karnataka, India | 📧 [Gmail](mailto:kumarkiru09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
+🌍 Mangalore🌊, Karnataka, India | 📧 [Gmail](mailto:kirukumar09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kumarkiru/count.svg" alt="Visitor Count" />
+</div>
 
 ## 💼 Professional Experience
 
