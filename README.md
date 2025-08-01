@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Senior Java Developer | Full Stack | DevOps | CI/CD | Cloud Infrastructure | Always Learning | AI Enthusiast
 
-🌍 Mangalore🌊, Karnataka, India | 📧 [kumarkiru09@gmail.com](mailto:kumarkiru09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
+🌍 Mangalore🌊, Karnataka, India | 📧 [Gmail](mailto:kumarkiru09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
 
 ## 💻 Tech Stack
 
