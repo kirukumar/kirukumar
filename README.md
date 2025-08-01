@@ -11,10 +11,6 @@ Senior Java Developer | Full Stack | DevOps | CI/CD | Cloud Infrastructure | Alw
 
 🌍 Mangalore🌊, Karnataka, India | 📧 [Gmail](mailto:kirukumar09@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/kiran-kumar-921278211)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kumarkiru/count.svg" alt="Visitor Count" />
-</div>
-
 ## 💼 Professional Experience
 
 **Senior Full Stack Java Developer** | *Financial Technology* | PBM 
